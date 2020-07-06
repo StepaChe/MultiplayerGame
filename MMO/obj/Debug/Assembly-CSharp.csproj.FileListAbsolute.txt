@@ -1,0 +1,2 @@
+D:\Documents\Projects\gb-kurs-multipleer-ppg\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\gb-kurs-multipleer-ppg\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

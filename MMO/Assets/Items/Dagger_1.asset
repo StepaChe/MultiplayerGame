@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cf576f3db0755542b2ac521baac8fad, type: 3}
+  m_Name: Dagger_1
+  m_EditorClassIdentifier: 
+  name: Dagger_1
+  icon: {fileID: 21300000, guid: b75fdb7af1ba5cb458ce2b6597494416, type: 3}
+  pickupPrefab: {fileID: 7035979600146276970, guid: 689ae4831aa13144bae32d833152b2da,
+    type: 3}
+  equipSlot: 3
+  damageModifier: 2
+  armorModifier: 0
+  speedModifier: 1
+  prefab: {fileID: 1808860897598984, guid: 4c0252d957960bd49bd8ba206b7d7bc5, type: 3}
